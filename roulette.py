@@ -1,4 +1,4 @@
-#ᴍᴀᴅᴇ ʙʏ ᴅᴏʀᴏⓒ
+#MADE BY MRCAT
 import os
 import random
 import time
